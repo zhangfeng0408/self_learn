@@ -1,3 +1,4 @@
 # learning
 learn myself
-# self_learn
+self_learn
+learning git
